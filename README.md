@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samdice18 AKA Sandile Ngubeni.
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning Python basics @WeThinkCode.
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me ...
 -   you can reach me on @samdice_sands on instagram, be sure to leave a DM and please be polite
 -   i am also available on facebook as "Sandile Philani Ngubeni".
